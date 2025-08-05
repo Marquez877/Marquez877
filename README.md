@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **FastAPI**
 
-- 👨‍💻 All of my projects are available at [Marquez877
+- 👨‍💻 All of my projects are available at [[Marquez877](https://github.com/Marquez877)
 
 - 📫 How to reach me **2304.01013@manas.edu.kg**
 
