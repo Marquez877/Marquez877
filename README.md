@@ -15,7 +15,7 @@
 
 - ⚡ Fun fact **atmosphere for jokes**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me: telegram @marquezpht</h3>
 <p align="left">
 </p>
 
